@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d371264.chunk.css",
+    "main.js": "/static/js/main.1c49a0f1.chunk.js",
+    "main.js.map": "/static/js/main.1c49a0f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1478ec4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1478ec4.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.e75890cd.chunk.js": "/static/js/2.e75890cd.chunk.js",
+    "static/js/2.e75890cd.chunk.js.map": "/static/js/2.e75890cd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4c8eed59429b1b0cc9cc38d252588c29.js": "/precache-manifest.4c8eed59429b1b0cc9cc38d252588c29.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.3d371264.chunk.css.map": "/static/css/main.3d371264.chunk.css.map",
+    "static/js/2.e75890cd.chunk.js.LICENSE.txt": "/static/js/2.e75890cd.chunk.js.LICENSE.txt",
+    "static/media/parqueaderos.jpg": "/static/media/parqueaderos.998bbaac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1478ec4.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.e75890cd.chunk.js",
+    "static/css/main.3d371264.chunk.css",
+    "static/js/main.1c49a0f1.chunk.js"
+  ]
+}
