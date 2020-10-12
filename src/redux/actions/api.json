@@ -1,0 +1,4 @@
+{
+    "users": "http://localhost:3001/api/users/",
+    "user": "http://localhost:3001/api/users/{id}"
+}
