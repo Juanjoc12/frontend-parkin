@@ -1,4 +1,4 @@
 {
-    "users": "http://localhost:3001/api/users/",
-    "user": "http://localhost:3001/api/users/{id}"
+    "users": "http://34.69.74.50:3001/api/users/",
+    "user": "http://34.69.74.50:3001/api/users/{id}"
 }
